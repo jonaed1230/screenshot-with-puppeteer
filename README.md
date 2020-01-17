@@ -4,7 +4,7 @@
   - [NodeJs](https://nodejs.org/en/)
   - [yarn](https://yarnpkg.com/lang/en/)
   
-## Please create images folder in root
+### Please create a new "images" folder in root
 
 ## running commands:
   ```sh
